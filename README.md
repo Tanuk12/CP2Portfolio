@@ -1,5 +1,5 @@
 # CP2Portfolio by Jasper Mowdood
- Here is all of my projects that I did this year
+ Here is all of my projects that I did this year might add more idk 
 # Shape Calculator
 Link to project: https://github.com/Tanuk12/IndividualProject
 # Card Crawler
